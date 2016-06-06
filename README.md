@@ -1,5 +1,5 @@
 # RestJerseySecurity Example (Programatic)
-=Rest Security:
+Rest Security:
 Authentication:
 	following are authentication protocol where Rest service using:
 		Basic:
