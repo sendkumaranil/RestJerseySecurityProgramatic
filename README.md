@@ -2,6 +2,7 @@
 Rest Security:
 --------------
 1.) Authentication:
+-------------------
 	following are authentication protocol where Rest service using:
 		(a). Basic:
 			Simplest protocol over HTTP.
@@ -25,6 +26,7 @@ Rest Security:
 	---example: userid and password credentials.
 	
 2). Authorization:
+------------------
 	whether certail user will allow to access or invoke perticular resource.
 	It performs by associating one or more roles.
 
